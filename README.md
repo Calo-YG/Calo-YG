@@ -10,7 +10,12 @@
 
 - 🍒  A post-00s person who loves software development.
 - 📍  I am currently working in guangzhou
-- 📝  I regularly write articles on [cnblogs](https://www.cnblogs.com/hyx1229/)
+- 📝  I regularly write articles on [cnblogs](https://www.cnblogs.com/wygbjd/)
 - 🐧  Welcome to join my friend`s .net core communication group (831181779)
+<br/>
+<br/>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/xhnbzdlj/count.svg)th visitor
+
 <br/>
 <br/>
