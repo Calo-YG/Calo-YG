@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Calo-YG/Calo-YG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### I'm YG-W.
+
+<br/>
+
+- 🍒  A post-00s person who loves software development.
+- 📍  I am currently working in guangzhou
+- 📝  I regularly write articles on [cnblogs](https://www.cnblogs.com/hyx1229/)
+- 🐧  Welcome to join my friend`s .net core communication group (831181779)
+<br/>
+<br/>
