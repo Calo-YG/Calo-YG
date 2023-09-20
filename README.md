@@ -15,7 +15,15 @@
 <br/>
 <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/xhnbzdlj/count.svg)th visitor
+You are my ![Visitor Count](https://profile-counter.glitch.me/Calo-YG/count.svg)th visitor
 
 <br/>
 <br/>
+
+# About My Github
+<div align="center">
+<img height='180' width='420' src="https://github-readme-stats.vercel.app/api?username=Calo-YG&show_icons=true&theme=cobalt" align="center" />
+<img height='180' width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calo-YG&layout=compact&theme=cobalt" align="center" />
+</div>  
+
+<br/> 
