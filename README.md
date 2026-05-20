@@ -1,91 +1,136 @@
-### Hi there 👋
-
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
-
-
-
-### I'm YG-W.
-
-<br/>
-
-- 🍒  A post-00s person who loves software development.
-- 📍  I am currently working in guangzhou
-- 📝  I regularly write articles on [cnblogs](https://www.cnblogs.com/wygbjd/)
-- 🐧  Welcome to join my friend`s .net core communication group (831181779)
-<br/>
-<br/>
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/Calo-YG/count.svg)th visitor
-
-<br/>
-<br/>
-
-# About My Github
 <div align="center">
-<img height='180' width='420' src="https://github-readme-stats.vercel.app/api?username=Calo-YG&show_icons=true&theme=cobalt" align="center" />
-<img height='180' width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calo-YG&layout=compact&theme=cobalt" align="center" />
-</div>  
 
-<br/> 
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║    > Hello, World! I'm YG  ░░░░░░░░░░░░░░░▓▓▓ 78%  ║
+║    > Loading personality...                          ║
+║    > .NET enthusiast detected ✓                      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+YG+%7C+%E5%B9%BF%E5%B7%9E;.NET+%2F+C%23+Developer;Full-Stack+Enthusiast;Building+cool+stuff+since+00s" alt="Typing SVG" />
 
+<br/>
 
+[![visitors](https://komarev.com/ghpvc/?username=Calo-YG&color=58a6ff&style=flat-square&label=访客数)](https://github.com/Calo-YG)
+[![Blog](https://img.shields.io/badge/博客园-cnblogs-blue?style=flat-square&logo=blogger&logoColor=white)](https://www.cnblogs.com/wygbjd/)
+[![GitHub followers](https://img.shields.io/github/followers/Calo-YG?style=flat-square&color=58a6ff)](https://github.com/Calo-YG?tab=followers)
 
-### Frontend  
-<div align="center">  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>   
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## `// about_me.cs`
 
+```csharp
+namespace YG.Profile
+{
+    public class Developer
+    {
+        public string Name        { get; } = "YG (Calo-YG)";
+        public string Location    { get; } = "广州 · Guangzhou 🌴";
+        public string Generation  { get; } = "00后 · Gen-Z";
+        public string[] Passions  { get; } = { "写代码", "折腾架构", "喝咖啡", "健康打工" };
 
-### Backend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+        public string[] CurrentFocus { get; } = 
+        {
+            "深耕 .NET 生态 / ASP.NET Core",
+            "微服务架构 & 云原生落地",
+            "事件驱动设计 & DDD 实践",
+        };
+
+        public string Motto => "代码是写给人看的，顺便让机器执行。";
+    }
+}
+```
+
+---
+
+## `// tech_stack.json`
+
+<div align="center">
+
+### 🔷 后端
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### 🔶 前端
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ DevOps & 工具
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## `// featured_projects[]`
 
+<div align="center">
 
-### DevOps  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>   
+| 项目 | 描述 | 技术 |
+|------|------|------|
+| [**SpeakEase**](https://github.com/Calo-YG/SpeakEase) | 基于 .NET Aspire 的微服务应用，多模块分层架构 | `C#` `.NET` `Aspire` `Docker` |
+| [**Y.EventBus**](https://github.com/Calo-YG/Y.EventBus) | 轻量级异步事件总线，基于 Channel 高性能实现 | `C#` `Channel` `DI` |
+| [**SpeakEase.Yarp.Nacos.Gateway**](https://github.com/Calo-YG/SpeakEase.Yarp.Nacos.Gateway) | Yarp + Nacos 打造的高性能 API 网关 | `C#` `YARP` `Nacos` |
+| [**SpeakEase.Web**](https://github.com/Calo-YG/SpeakEase.Web) | SpeakEase 的 Vue 前端界面 | `Vue` `TypeScript` |
+
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
+## `// github_stats`
 
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Calo-YG&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=cn" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calo-YG&layout=compact&theme=github_dark&hide_border=true&locale=cn" />
 
-## Connect with me  
-<div align="left">
-<a href="https://github.com/Calo-YG" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Calo-YG&theme=github-dark-blue&hide_border=true&locale=zh_Hans&date_format=Y-m-d)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `// find_me`
+
+<div align="center">
+
+```bash
+$ curl -s https://api.github.com/users/Calo-YG | jq '.contact'
+{
+  "github":  "https://github.com/Calo-YG",
+  "blog":    "https://www.cnblogs.com/wygbjd/",
+  "dotnet_group": "QQ群 831181779"
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+
+*「好的代码像好的段子 —— 不需要解释。」*
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
