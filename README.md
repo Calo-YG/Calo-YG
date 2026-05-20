@@ -10,45 +10,21 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+YG+%7C+%E5%B9%BF%E5%B7%9E;.NET+%2F+C%23+Developer;Full-Stack+Enthusiast;Building+cool+stuff+since+00s" alt="Typing SVG" />
-
-<br/>
-
-[![visitors](https://komarev.com/ghpvc/?username=Calo-YG&color=58a6ff&style=flat-square&label=访客数)](https://github.com/Calo-YG)
-[![Blog](https://img.shields.io/badge/博客园-cnblogs-blue?style=flat-square&logo=blogger&logoColor=white)](https://www.cnblogs.com/wygbjd/)
-[![GitHub followers](https://img.shields.io/github/followers/Calo-YG?style=flat-square&color=58a6ff)](https://github.com/Calo-YG?tab=followers)
-
 </div>
 
 ---
 
-## `// about_me.cs`
+## 👋 About Me
 
-```csharp
-namespace YG.Profile
-{
-    public class Developer
-    {
-        public string Name        { get; } = "YG (Calo-YG)";
-        public string Location    { get; } = "广州 · Guangzhou 🌴";
-        public string Generation  { get; } = "00后 · Gen-Z";
-        public string[] Passions  { get; } = { "写代码", "折腾架构", "喝咖啡", "健康打工" };
-
-        public string[] CurrentFocus { get; } = 
-        {
-            "深耕 .NET 生态 / ASP.NET Core",
-            "微服务架构 & 云原生落地",
-            "事件驱动设计 & DDD 实践",
-        };
-
-        public string Motto => "代码是写给人看的，顺便让机器执行。";
-    }
-}
-```
+- 🧑‍💻 **Name**：YG (Calo-YG)
+- 📍 **Location**：深圳 · Shenzhen
+- 🎓 **Generation**：00后 · Gen-Z
+- 💻 **Focus**：深耕 .NET 生态 / 微服务架构 & 云原生 / 事件驱动 & DDD 实践
+- 💡 **Motto**：代码是写给人看的，顺便让机器执行。
 
 ---
 
-## `// tech_stack.json`
+## `tech_stack`
 
 <div align="center">
 
@@ -74,52 +50,16 @@ namespace YG.Profile
 
 </div>
 
----
 
-## `// featured_projects[]`
-
-<div align="center">
-
-| 项目 | 描述 | 技术 |
-|------|------|------|
-| [**SpeakEase**](https://github.com/Calo-YG/SpeakEase) | 基于 .NET Aspire 的微服务应用，多模块分层架构 | `C#` `.NET` `Aspire` `Docker` |
-| [**Y.EventBus**](https://github.com/Calo-YG/Y.EventBus) | 轻量级异步事件总线，基于 Channel 高性能实现 | `C#` `Channel` `DI` |
-| [**SpeakEase.Yarp.Nacos.Gateway**](https://github.com/Calo-YG/SpeakEase.Yarp.Nacos.Gateway) | Yarp + Nacos 打造的高性能 API 网关 | `C#` `YARP` `Nacos` |
-| [**SpeakEase.Web**](https://github.com/Calo-YG/SpeakEase.Web) | SpeakEase 的 Vue 前端界面 | `Vue` `TypeScript` |
-
-</div>
-
----
-
-## `// github_stats`
+## `find_me`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Calo-YG&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=cn" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calo-YG&layout=compact&theme=github_dark&hide_border=true&locale=cn" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Calo-YG&theme=github-dark-blue&hide_border=true&locale=zh_Hans&date_format=Y-m-d)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `// find_me`
-
-<div align="center">
-
-```bash
-$ curl -s https://api.github.com/users/Calo-YG | jq '.contact'
-{
-  "github":  "https://github.com/Calo-YG",
-  "blog":    "https://www.cnblogs.com/wygbjd/",
-  "dotnet_group": "QQ群 831181779"
-}
-```
+|  | 链接 |
+|--|------|
+| 🐙 GitHub | [Calo-YG](https://github.com/Calo-YG) |
+| 📝 博客 | [博客园](https://www.cnblogs.com/wygbjd/) |
+| 💬 .NET 交流群 | QQ群 831181779 |
 
 </div>
 
@@ -129,7 +69,8 @@ $ curl -s https://api.github.com/users/Calo-YG | jq '.contact'
 
 *「好的代码像好的段子 —— 不需要解释。」*
 
-<br/>
+</div>
+
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
